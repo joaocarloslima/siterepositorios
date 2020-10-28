@@ -4,3 +4,4 @@ export default {
     "bio": "Aluna da Etec Irmã Agostina, cursando Desenvolvimento de sistemas."
 }
 
+
